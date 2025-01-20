@@ -12,6 +12,9 @@
 
 # Windows10 Debloater :
   https://github.com/Sycnex/Windows10Debloater
+  Powersell cmd 
+  iwr -useb https://git.io/debloat|iex
+  https://www.youtube.com/watch?v=ZqxZ8_OcuKg
 
 # Remove Default Folder :
   https://www.tenforums.com/tutorials/6015-add-remove-folders-pc-windows-10-a.html
