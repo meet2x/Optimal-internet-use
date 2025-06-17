@@ -19,6 +19,10 @@
 # Key Disable Software :
   https://github.com/microsoft/PowerToys/releases/tag/v0.57.0
 
+# Virustotal :
+  [ Check URL and files cantain malware ]
+  https://www.virustotal.com/gui/home/upload
+
 # Blotwares Remove From Android :
   https://beebom.com/remove-bloatware-android-no-root/
   https://xdaforums.com/t/how-to-install-get-back-uninstalled-apps-apks-with-adb.3894235/
