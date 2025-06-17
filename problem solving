@@ -1,95 +1,117 @@
 PROCESSOR
------------
+-------------------------------------------------------------------------
 # How to choose PC :
   https://www.pcmag.com/how-to/how-to-choose-a-laptop-cpu
 
-# processor information :
+# Processor information :
   [ to know that all of your pc uses o it's max space or not ]
   https://www.hwinfo.com/
   [ for core & thred ]
   https://www.cpuid.com/softwares/cpu-z.html
 
+
+
 OS
---------
-# Windows 10 ISO:
+-------------------------------------------------------------------------
+# Windows ISO:
   https://uupdump.net/
   https://www.1377x.to/torrent/4697396/Windows-10-Pro-en-US-v1909-x64-BiT-Activated-KBO/
 
-# Microsoft Office 2024 x86 Pre-Activated :
+# Microsoft office 2024 x86 pre-activated :
   https://filecr.com/windows/microsoft-office-2021-professional-plus/
 
-# Activated Windows 10/11 & Office 2025 :
+# Activated windows 10/11 & office 2025 :
   powersell command :
   irm https://get.activated.win | iex
   https://www.kmspico.blog/  
 
-# Disable Candysrush Sega :
+# Disable candysrush sega :
   https://windowsreport.com/windows-10-keeps-installing-candy-crush-saga/#:~:text=Windows%2010%20users%20report%20that,Stop%20to%20disable%20this%20feature.
 
-# Disable Windows10 Autometic Update :
+# Disable windows10 autometic update :
   https://www.windowscentral.com/how-stop-updates-installing-automatically-windows-10
 
-# Windows Spy bloacker :
+# Windows spy bloacker :
   https://github.com/crazy-max/WindowsSpyBlocker
 
 # Shutup 10 :
   https://www.oo-software.com/en/shutup10
 
-# Windows10 Debloater :
+# Windows10 debloater :
   https://github.com/Sycnex/Windows10Debloater
   Powersell cmd 
   iwr -useb https://git.io/debloat|iex
   https://www.youtube.com/watch?v=ZqxZ8_OcuKg
 
-# Remove Default Folder :
+# Remove default folder :
   https://www.tenforums.com/tutorials/6015-add-remove-folders-pc-windows-10-a.html
 
-# Disable Windows Indexing [ For increse the lifetime of ssd ]
+# Disable windows indexing [ for increse the lifetime of ssd ]
   https://www.nssit.com/maximizing-the-use-and-quality-of-your-solid-state-drive-with-windows/#:~:text=Simply%20go%20to%20My%20Computer,okay%20to%20save%20your%20changes
 
-CONNECTING & DATA TRASNFER
----------------------------
-# LAN File Transfer Settings :
+# [SOFTWARE]  Geek Uninstaller :
+  [ uninstall windows softwares with reg keys ]
+  https://geekuninstaller.com/
+
+
+
+CONNECTION & DATA TRASNFER
+-------------------------------------------------------------------------
+# LAN file transfer settings :
   https://techwiser.com/how-to-connect-pc-to-pc-lan-cable/
 
-# 3uTools :
+# [SOFTWARE] 3uTools :
   [ ios to windows data transfer ]
   https://www.3u.com/
 
+# [SOFTWARE] Sharemouse :
+  [ multiple display operated with one keyboard and mouse ]
+  https://www.sharemouse.com/download/
+
+# [SOFTWARE] Aster :
+  [ multiple desktop using only one PC ]
+  https://ibiksoft.com/download-aster-multiseat-software/
+
+# Extended display settings windows10 :
+  https://youtu.be/qE2FavX8Ohg?feature=shared
+  https://youtu.be/SCALLOQ0NC8?feature=shared
+
+
+
 HARDRIVE
-----------------
-# Currupted Hardisk CMD :
+-------------------------------------------------------------------------
+# Currupted hardisk CMD :
   https://www.diskgenius.com/resource/windows-was-unable-to-repair-the-drive.html
 
-# [SOFTWARE] Currepted Hardisk Repair :
+# [SOFTWARE] Currepted hardisk repair :
   https://www.cleverfiles.com/data-recovery-software.html
 
-# Unable to Srink the Volume in Windows10 Partition :
+# Unable to srink the volume in windows10 partition :
   https://www.youtube.com/watch?v=X-0R7Q_vhmw&list=WL&index=5
 
-# [SOFTWARE] Easy Disk Clone + Partition Management:
+# [SOFTWARE] Easy disk clone + partition management :
   [ clone the entire hardisk ]
   https://www.easyuefi.com/disk-clone/disk-clone-home.html
   https://www.diskpart.com/
 
-# PC having GPT or MBR Partition Scheme :
+# PC having GPT or MBR partition scheme :
   https://www.youtube.com/watch?v=3lAYgl_eBlQ
 
-WINDOWS PROBLEMS
-------------------
+
+
+Keyboard Related
+-------------------------------------------------------------------------
 # Unable To Type Pressing Windows Key [ctfmon Problem] :
   https://www.youtube.com/watch?v=xXR7-1UXC0g
-
-OTHER SOFTWARES
-------------------------
-# [SOFTWARE] Sharemouse :
-  [ multiple display operated with one keyboard and mouse ]
-  https://www.sharemouse.com/download/
 
 # [SOFTWARE] Powertoys :
   [ Key Disable Software ]
   https://github.com/microsoft/PowerToys/releases/tag/v0.57.0
 
+
+
+SECURITY SOFTWARES
+-------------------------------------------------------------------------
 # [SOFTWARE]  Malware Bytes :
   [ Free Antivirus Software ]
   https://www.malwarebytes.com/adwcleaner
@@ -98,16 +120,10 @@ OTHER SOFTWARES
   [ Check URL and files cantain malware ]
   https://www.virustotal.com/gui/home/upload
 
-# [SOFTWARE]  Geek Uninstaller :
-  [ uninstall windows softwares with reg keys ]
-  https://geekuninstaller.com/
 
-# [SOFTWARE] f.lux :
-  [ blue light eliminater ]
-  https://justgetflux.com/
 
 MOBILE
----------------
+-------------------------------------------------------------------------
 # Blotwares Remove From Android :
   https://beebom.com/remove-bloatware-android-no-root/
   https://xdaforums.com/t/how-to-install-get-back-uninstalled-apps-apks-with-adb.3894235/
@@ -121,24 +137,81 @@ MOBILE
 # Default Diler & Auto Call Recording in Oneplus - Oppo - Vivo :
   https://play.google.com/store/apps/details?id=com.oplus.dialer&pcampaignid=web_share
 
-# [SOFTWARE] Adobe Reader Pro :
-  https://www.1377x.to/torrent/2637266/Adobe-Acrobat-Pro-DC-2018-009-20050-Pre-Cracked-CrackzSoft/
+# iphone Activation Lock Break :
+  [ to bypass the activation lock ]
+  https://drfone.wondershare.com/icloud/iphone-4-iphone-4s-icloud-bypass.html
+  https://www.ultfone.com/activation-unlocker.html?utm_source=youtube&utm_medium=mohit&utm_campaign=nicole4mekey
+
+# [APK] YT Revanced :
+  https://revanced.to/youtube/
+
+# [APK] Bromite Browser :
+  https://www.bromite.org/
+
+# [APK] Camscanner :
+  https://perfectmodapk.com/camscanner-scanner-pdf-maker-mod-apk-H7hIJMZd/?r=game
+
+# [APK] Pure status - bye bye blur status :
+  [ Whatsapp Status Compress ]
+  https://www.happymod.to/purepixel-hd-status-converter-mod/com.damtechdesigns.purepixel/
+
+
 
 TV
-------------------------------------
-# Changing Default Launcher in Sony TV: 
+-------------------------------------------------------------------------
+# Changing Default Launcher in Sony TV : 
   https://support.google.com/androidtv/thread/76530545/how-do-i-change-the-default-launcher-on-a-sony-android-tv?hl=en
 
-# How to start coding :
-  https://www.freecodecamp.org/news/how-to-learn-programming/
+# [APK] Butten mapper :
+  https://play.google.com/store/apps/details?id=flar2.homebutton&pcampaignid=web_share
 
-# Extended Display Settings Windows10 :
-  https://youtu.be/qE2FavX8Ohg?feature=shared
-  https://youtu.be/SCALLOQ0NC8?feature=shared
+# [APK] Flauncher :
+  https://play.google.com/store/apps/details?id=me.efesser.flauncher&hl=en_IN
 
-# Virtual Machine Installation :
+
+
+OTHER SOFTWARES
+-------------------------------------------------------------------------
+# [SOFTWARE] Time Stopper + Handbreak :
+  [ stop the time in pc for trial version software ]
+  https://time-stopper.apponic.com/download/
+  https://handbrake.fr/
+
+# [SOFTWARE] Virtual Machine Installation :
   https://www.youtube.com/watch?v=_u8qTN3cCnQ&list=LL&index=1
   https://www.youtube.com/watch?v=wX75Z-4MEoM&list=LL&index=2
+
+# [SOFTWARE] 4k Video Downloader + YT-Dlg :
+  https://www.4kdownload.com/products/videodownloader-42
+  https://alternativeto.net/software/youtubedlg/about/
+
+# [SOFTWARE] f.lux :
+  [ blue light eliminater ]
+  https://justgetflux.com/
+
+# [SOFTWARE] Share-x :
+  [ Screensharing + Recording ]
+  https://getsharex.com/
+
+# [SOFTWARE] Openshort Video Editor : 
+  [ Video editor software ]
+  https://www.openshot.org/download/
+
+# [SOFTWARE] Gujarati Font Art Generator :
+  [ To Generate Art In The Local Form ]
+  https://indiafont.com/
+
+# [SOFTWARE] Inventory Management Software :
+  https://sourceforge.net/projects/nis-network-inventory-software/files/
+
+# [SOFTWARE] Online Camera View PC :
+  https://dahuawiki.com/SmartPSS_Lite
+
+# Velidate Digital Signature :
+  https://www.youtube.com/watch?v=vkvkn2fjoKU
+
+# [SOFTWARE] Adobe Reader Pro :
+  https://www.1377x.to/torrent/2637266/Adobe-Acrobat-Pro-DC-2018-009-20050-Pre-Cracked-CrackzSoft/
 
 # VLC Settings for Hometheater :
   https://www.youtube.com/watch?v=qgRvUK8bxGU&list=LL&index=3
@@ -146,66 +219,8 @@ TV
 # Artificial Light Photoshop :
   https://www.youtube.com/watch?v=axa8gCP5o7A
 
-------------------------------------------------------------------------------------------------------
-
-
-
-# Aster :
-  [ multiple desktop using only one PC ]
-  https://ibiksoft.com/download-aster-multiseat-software/
-
-# Time Stopper + Handbreak :
-  [ stop the time in pc for trial version software ]
-  https://time-stopper.apponic.com/download/
-  https://handbrake.fr/
-
-# 4k Video Downloader + YT-Dlg :
-  https://www.4kdownload.com/products/videodownloader-42
-  https://alternativeto.net/software/youtubedlg/about/
-
-# 4k Youtube to mp3:
-  https://www.4kdownload.com/products/youtubetomp3-72
-
-# Share-x :
-  [ Screensharing + Recording ]
-  https://getsharex.com/
-
-# Online Camera View PC :
-  https://dahuawiki.com/SmartPSS_Lite
-
-# Openshort Video Editor : 
-  [ Video editor software ]
-  https://www.openshot.org/download/
-
-# Gujarati Fount Art Generator :
-  [ To Generate Art In The Local Form ]
-  https://indiafont.com/
-
-# Inventory Management Software :
-  https://sourceforge.net/projects/nis-network-inventory-software/files/
-
-
-# iphone Activation Lock Break :
-  [ to bypass the activation lock ]
-  https://drfone.wondershare.com/icloud/iphone-4-iphone-4s-icloud-bypass.html
-  https://www.ultfone.com/activation-unlocker.html?utm_source=youtube&utm_medium=mohit&utm_campaign=nicole4mekey
-
-# YT Revanced APK :
-  https://revanced.to/youtube/
-
-# Bromite Browser APK :
-  https://www.bromite.org/
-
-# Camscanner APK :
-  https://perfectmodapk.com/camscanner-scanner-pdf-maker-mod-apk-H7hIJMZd/?r=game
-
-# Pure Status: Bye Bye Blur Status :
-  [ Whatsapp Status Compress ]
-  https://www.happymod.to/purepixel-hd-status-converter-mod/com.damtechdesigns.purepixel/
-OTHER STUFF
------------------
-# Velidate Digital Signature :
-  https://www.youtube.com/watch?v=vkvkn2fjoKU
+# How to start coding :
+  https://www.freecodecamp.org/news/how-to-learn-programming/
 
 
 
