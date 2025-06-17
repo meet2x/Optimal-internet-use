@@ -16,18 +16,21 @@
 # Unable To Type Pressing Windows Key [ctfmon Problem] :
   https://www.youtube.com/watch?v=xXR7-1UXC0g
 
-# Key disable Software :
+# Key Disable Software :
   https://github.com/microsoft/PowerToys/releases/tag/v0.57.0
 
 # Blotwares Remove From Android :
   https://beebom.com/remove-bloatware-android-no-root/
   https://xdaforums.com/t/how-to-install-get-back-uninstalled-apps-apks-with-adb.3894235/
-  https://technolobe.com/2020/08/17/how-to-remove-bloatware-from-any-xiaomi-device/
-  https://developer.android.com/tools/releases/platform-tools
+  [SOFTWARE]  https://technolobe.com/2020/08/17/how-to-remove-bloatware-from-any-xiaomi-device/
+  [SOFTWARE]  https://developer.android.com/tools/releases/platform-tools
 
-# Default Diler in Vivo - Oppo - Iquo Autometic Call Recording :
-  https://youtu.be/mWmr9IU63Ew?feature=shared
-  https://youtu.be/tsp1eDiZYRQ?feature=shared
+# Default Diler & Auto Call Recording in Vivo - Oppo - Iquo :
+  Diler    : *#*#556688#*#*
+  Settings : Apps > Enable Alternative Phones & Contacts
+
+# Default Diler & Auto Call Recording in Oneplus - Oppo - Vivo :
+  https://play.google.com/store/apps/details?id=com.oplus.dialer&pcampaignid=web_share
 
 # Velidate Digital Signature :
   https://www.youtube.com/watch?v=vkvkn2fjoKU
