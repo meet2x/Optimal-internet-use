@@ -22,4 +22,9 @@
 # Disable Windows Indexing [ For increse the lifetime of ssd ]
   https://www.nssit.com/maximizing-the-use-and-quality-of-your-solid-state-drive-with-windows/#:~:text=Simply%20go%20to%20My%20Computer,okay%20to%20save%20your%20changes
 
+# Activated Windows 10/11 & Office 2025 :
+  powersell command :
+  irm https://get.activated.win | iex
+
+
 
