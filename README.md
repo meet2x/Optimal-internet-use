@@ -5,5 +5,5 @@
   useful YT videos for problem solving + blogs + softwares
 
 @ Website :
-  styff that can be found for free
+  stuff that can be found for free
 
