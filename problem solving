@@ -114,6 +114,7 @@ HARDRIVE
 
 # PC having GPT or MBR partition scheme :
   https://www.youtube.com/watch?v=3lAYgl_eBlQ
+  won > disk management > disk 0 (right click) > properties > volumes > partition style
 
 # [SOFTWARE] Data recovery :
   https://www.diskgenius.com/
