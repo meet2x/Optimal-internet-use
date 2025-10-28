@@ -107,14 +107,14 @@ HARDRIVE
 # Unable to srink the volume in windows10 partition :
   https://www.youtube.com/watch?v=X-0R7Q_vhmw&list=WL&index=5
 
+# PC having GPT or MBR partition scheme :
+  https://www.youtube.com/watch?v=3lAYgl_eBlQ
+  won > disk management > disk 0 (right click) > properties > volumes > partition style
+
 # [SOFTWARE] Easy disk clone + partition management :
   [ clone the entire hardisk ]
   https://www.easyuefi.com/disk-clone/disk-clone-home.html
   https://www.diskpart.com/
-
-# PC having GPT or MBR partition scheme :
-  https://www.youtube.com/watch?v=3lAYgl_eBlQ
-  won > disk management > disk 0 (right click) > properties > volumes > partition style
 
 # [SOFTWARE] Data recovery :
   https://www.diskgenius.com/
