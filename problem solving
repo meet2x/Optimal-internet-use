@@ -3,10 +3,10 @@ PROCESSOR
 # How to choose PC :
   https://www.pcmag.com/how-to/how-to-choose-a-laptop-cpu
 
-# Processor information :
-  [ to know that all of your pc uses o it's max space or not ]
+# PC information :
+  cmd > systeminfo
+  [ to know all of the specs of pc ]
   https://www.hwinfo.com/
-  [ for core & thred ]
   https://www.cpuid.com/softwares/cpu-z.html
 
 
