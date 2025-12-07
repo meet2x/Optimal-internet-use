@@ -25,6 +25,14 @@ OS
 # Disable windows10 autometic update :
   https://www.windowscentral.com/how-stop-updates-installing-automatically-windows-10
 
+# Disable windows11 autometic update :
+  https://www.youtube.com/watch?v=qFCdZbJb2JQ
+  Registry Editor Settings
+    Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsUpdate\UX\Settings
+      Make / Update Registry : FlightSettingsMaxPauseDays
+      Set Value              : 00001c84
+      Base                   : Hexadecimal 
+
 # Windows spy bloacker :
   https://github.com/crazy-max/WindowsSpyBlocker
 
