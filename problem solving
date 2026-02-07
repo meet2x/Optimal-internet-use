@@ -17,6 +17,13 @@ OS
   https://uupdump.net/
   https://www.1377x.to/torrent/4697396/Windows-10-Pro-en-US-v1909-x64-BiT-Activated-KBO/
 
+# Unable to find drives during formating:
+  https://www.youtube.com/watch?v=Ode1010Sr5w
+  missing repid storage tech driver intel
+    install powersell cmd
+    cd c:/folder
+    .\setup1.exe -extractdrivers c:\folder2\
+
 # Activated windows 10/11 & office 2025 :
   powersell command :
   irm https://get.activated.win | iex
