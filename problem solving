@@ -5,6 +5,7 @@ PROCESSOR
 
 # PC information :
   cmd > systeminfo
+  cmd > wmic bios get serialnumber
   [ to know all of the specs of pc ]
   https://www.hwinfo.com/
   https://www.cpuid.com/softwares/cpu-z.html
