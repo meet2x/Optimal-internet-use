@@ -2,12 +2,14 @@ YT Link
 https://www.youtube.com/watch?v=RRUmTxOX1KE&list=WL&index=4
 
 Step 1 :
+--------
   Install clean OS, excluding drivers
   Make your own settings (Group Policy Settings) Then,
   CMD,
       C:\Windows\System32>%windir\system32\sysprep\sysprep.exe /audit /reboot
 
 Step 2:
+--------
   After restart go to control panal and delete privious user account Then,
   create and formate disk partition in intiate disk-1 type choose GPT style (option only available if you are in virtual machine)
   Win + R, sysprep.exe
@@ -16,9 +18,35 @@ Step 2:
     Shutdown
 
 Step 3:
+--------
   Step in to boot manu and intiate the bootable pendrive os (used for formate the PC)
   click on repair this pc > troubleshoot > cmd
-    Check on which disk which files are containt using command
-    C:
-    dir
+    1.
+      Check on which disk which files are containt using command
+      for entering in to the disk command          - C:
+      for looking containt in to that disk command - dir
+      for going back command                       - X:
+    2.
+      dism /Capture-Image /ImageFile:E:\install.wim /CaptureDir:C:\ /Name:win10
+      E            : Destination file
+      C            : OS  installed drive (clone drive)
+      install.wim  : you can change .wim to .esd whichever present in to ISO > sources > install.esd/install.wim  
+    3.
+      Exit
 
+Step 4:
+  Exit & Continue to Windows, Setup windows again. (every settings will be same as you left, expect windows settings)
+  download ANYBEARN software,
+  replace ISO > sources > install.wim/install.esd file to the one we have made.
+  Download that ISO.
+
+Note:
+--------
+    convert .wim file to .esd files are possible
+    cmd - run as administration
+      1. wim->esd
+         dism /export-image /sourceimagefile:E:\sources\install.wim /sourceindex:1 /destinationimagefile:D:\install.esd/compress:max
+
+      2. esd->wim
+         dism /export-image /sourceimagefile:E:\sources\install.esd /sourceindex:1 /destinationimagefile:D:\install.wim/compress:max
+      
