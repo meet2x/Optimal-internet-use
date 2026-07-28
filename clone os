@@ -1,0 +1,24 @@
+YT Link
+https://www.youtube.com/watch?v=RRUmTxOX1KE&list=WL&index=4
+
+Step 1 :
+  Install clean OS, excluding drivers
+  Make your own settings (Group Policy Settings) Then,
+  CMD,
+      C:\Windows\System32>%windir\system32\sysprep\sysprep.exe /audit /reboot
+
+Step 2:
+  After restart go to control panal and delete privious user account Then,
+  create and formate disk partition in intiate disk-1 type choose GPT style (option only available if you are in virtual machine)
+  Win + R, sysprep.exe
+    Choose Enter System Out Of Box Experience (OOBE)
+    Check mark on generlise
+    Shutdown
+
+Step 3:
+  Step in to boot manu and intiate the bootable pendrive os (used for formate the PC)
+  click on repair this pc > troubleshoot > cmd
+    Check on which disk which files are containt using command
+    C:
+    dir
+
