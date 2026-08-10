@@ -1,0 +1,34 @@
+YT Link
+https://www.youtube.com/watch?v=c0OyRQSMcgQ
+
+Step 1 :
+--------
+  Use Microsoft's Official Office Deployment Tool
+    https://www.microsoft.com/en-us/download/details.aspx?id=49117 
+    
+    make a folder and install that microsoft tool in that (make it in to C: drive)
+
+Step 2 :
+--------
+  Configuration XML File & Download
+    google, office customization tool
+    https://config.office.com/deploymentsettings
+    
+    Select,
+    Architecture : 32 x 64
+    Office Suits : office LTSC Standard version
+    Apps         : word + excel (only whats needed)
+    Language     : English
+    > Export > office open XML formats
+
+Step 3 :
+--------
+  Installing Office via Command Prompt
+    move XML File in to the folder which was created earlier
+    CMD > run as administrator
+      cd C:\folder_created_earlier
+      setup /configure configuration.xml
+
+      
+    
+  
